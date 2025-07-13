@@ -1,0 +1,55 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+  color: #4d5e3a; /* verde musgo */
+}
+
+nav a {
+  text-decoration: none;
+  color: #4d5e3a;
+  font-size: 0.9rem;
+}
+
+article {
+  margin-bottom: 2rem;
+}
+
+article h2 {
+  margin-bottom: 0.5rem;
+  color: #4d5e3a;
+  font-size: 1.4rem;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+}
+
+footer a {
+  color: #4d5e3a;
+  text-decoration: none;
+}
+
+.signature {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
