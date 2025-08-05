@@ -13,7 +13,12 @@ body {
 }
 
 header {
-  margin-bottom: 2rem;
+  background-image: url("capa.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
 }
 
 header h1 {
